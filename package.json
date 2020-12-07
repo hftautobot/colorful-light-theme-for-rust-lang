@@ -24,7 +24,7 @@
         "email": "sudeep.batra@gmail.com"
     },
     "homepage": "https://github.com/hftautobot/colorful-light-theme-for-rust-lang",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -39,5 +39,22 @@
                 "path": "./themes/Colorful Light Theme for Rust-color-theme.json"
             }
         ]
-    }
+    },
+     "badges": [
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/version/hftautobot.colorful-light-theme-for-rust-lang.svg",
+			"href": "https://marketplace.visualstudio.com/items/hftautobot.colorful-light-theme-for-rust-lang",
+			"description": "Extension version"
+		},
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/installs/hftautobot.colorful-light-theme-for-rust-lang.svg",
+			"href": "https://marketplace.visualstudio.com/items/hftautobot.colorful-light-theme-for-rust-lang",
+			"description": "Extension installs"
+		},
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/rating/hftautobot.colorful-light-theme-for-rust-lang.svg",
+			"href": "https://marketplace.visualstudio.com/items/hftautobot.colorful-light-theme-for-rust-lang",
+			"description": "Extension Rating"
+		}
+	]
 }
