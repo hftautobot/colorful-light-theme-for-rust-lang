@@ -3,6 +3,12 @@
     "displayName": "Colorful Light Theme for Rust Lang",
     "description": "Colorful Light Theme for Rust Lang",
 	"publisher": "hftautobot",
+    "license": "MIT",
+    "icon": "images/icon-rust.png",
+    "galleryBanner": {
+        "color": "#FFFFFF",
+        "theme": "light"
+    },
     "keywords": [
 		"Rust",
 		"Light Theme",
@@ -14,7 +20,7 @@
 		"url": "https://github.com/hftautobot/colorful-light-theme-for-rust-lang.git"
 	},
     "homepage": "https://github.com/hftautobot/colorful-light-theme-for-rust-lang",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.51.0"
     },
