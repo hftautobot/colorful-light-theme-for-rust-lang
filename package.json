@@ -1,0 +1,21 @@
+{
+    "name": "colorful-light-theme-for-rust-lang",
+    "displayName": "Colorful Light Theme for Rust Lang",
+    "description": "Colorful Light Theme for Rust Lang",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorful Light Theme for Rust",
+                "uiTheme": "vs",
+                "path": "./themes/Colorful Light Theme for Rust-color-theme.json"
+            }
+        ]
+    }
+}
