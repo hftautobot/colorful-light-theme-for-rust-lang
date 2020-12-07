@@ -3,7 +3,19 @@
     "displayName": "Colorful Light Theme for Rust Lang",
     "description": "Colorful Light Theme for Rust Lang",
 	"publisher": "hftautobot",
-    "version": "0.0.2",
+    "preview": true,
+    "keywords": [
+		"Rust",
+		"Light Theme",
+		"Colorful Theme",
+        "Rust Language Colorful Light Theme"
+	],
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/hftautobot/colorful-light-theme-for-rust-lang.git"
+	},
+    "homepage": "https://github.com/hftautobot/colorful-light-theme-for-rust-lang",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.51.0"
     },
