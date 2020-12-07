@@ -2,6 +2,7 @@
     "name": "colorful-light-theme-for-rust-lang",
     "displayName": "Colorful Light Theme for Rust Lang",
     "description": "Colorful Light Theme for Rust Lang",
+	"publisher": "hftautobot",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
