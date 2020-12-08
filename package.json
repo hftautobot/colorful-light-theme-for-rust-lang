@@ -24,7 +24,7 @@
         "email": "sudeep.batra@gmail.com"
     },
     "homepage": "https://github.com/hftautobot/colorful-light-theme-for-rust-lang",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "engines": {
         "vscode": "^1.51.0"
     },
