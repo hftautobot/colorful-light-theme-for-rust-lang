@@ -316,6 +316,10 @@
 		"welcomePage.buttonBackground": "#e1e4eb",
 		"welcomePage.buttonHoverBackground": "#0065ff33",
 		"widget.shadow": "#aaadb4",
+		"errorLens.warningBackgroundLight": "#eceaea",
+		"errorLens.hintBackgroundLight": "#eceaea",
+		"errorLens.infoBackgroundLight": "#eceaea",
+		"errorLens.errorBackgroundLight": "#eceaea"
 		//"activityBar.dropBorder": "#601791",
 		//"bookmarks.lineBackground": "#00000000",
 		//"bookmarks.lineBorder": "#00000000",
