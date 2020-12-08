@@ -1458,6 +1458,13 @@
 			}
 		},
 		{
+			"scope": "entity.name.type.lifetime.rust",
+			"settings": {
+				"foreground": "#A06CD5",
+				"fontStyle": "italic bold"
+			}
+		},		
+		{
 			"scope": "entity.other.attribute-name.table.toml",
 			"settings": {
 				"foreground": "#FF84E8",
